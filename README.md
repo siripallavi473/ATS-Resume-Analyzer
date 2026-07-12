@@ -18,14 +18,7 @@ An AI-powered ATS Resume Analyzer that compares resumes with job descriptions an
 - CSS
 - Google Gemini API
 
-## ▶️ Run Locally
 
-```bash
-git clone https://github.com/siripallavi473/ATS.git
-cd ATS
-pip install -r requirements.txt
-python main.py
-```
 
 ## 👩‍💻 Author
 
